@@ -1,0 +1,53 @@
+
+
+
+<!DOCTYPE html>
+<html>
+<head><style>
+body {
+  font-family: Verdana, sans-serif;
+}
+</style>
+<head>
+ <body style="background-color:powderblue;"> 
+
+ <h1 style="background-color:tomato;">Punto Blanco</h1>  
+</head>
+<body>
+
+    <h1>Juan Ignacio Ramirez</h1> 
+    <img src="img/fotoJuan.jpg" alt="Juan" width="400" height="600">
+    <h2>Estudiante de Tecnicatura en Desarrollo de Software</h2> 
+
+ <p>Estado civil: Soltero<br>
+    Contacto: juanigramirez@uade.edu.ar<br>
+    Whatsapp: 221 5342811<br>
+    Conocimientos de Hardware: avanzados. Reparacion de placas y trabajos de microsoldadura.<br>
+    Idiomas: Inglés fluido. FCE Cambridge. 2013.<br>
+<br>
+    Experiencia laboral:<br>
+    - Reparacion y compra-venta de celulares y computadoras en Service Del Valle. Olavarria. 2013-2022. Emprendimiento propio.<br>
+    - Asistencia y servicio a agentes Pago Facil, instalacion de redes y sistemas informaticos. Digital Creative. Mendoza. 2017-2019<br>
+    - Atencion al publico y gestion de ventas al por mayor en Papelera Rolypack. Olavarria. 2018<br>
+    - Atencion al publico y cadeteria en Farmacia Striebeck. Olavarria. 2019-2021<br>
+    - Asistencia y servicio a Banco Santander Rio y Banco Nacion, mantenimiento de redes y sistemas. Powersis. Mendoza. 2019-2021<br>
+<br>
+<br>
+    Datos de interes:<br>
+    - Licencia de conducir A.1.4/B2.<br>
+    - Movilidad propia. Auto, moto.<br>
+
+</p><br>
+
+</body>
+</html>
+
+
+
+
+<ul>
+    <li><a href=index.html">Home</a></li>
+    <li><a href="servicios.html">Servicios</a></li>
+    <li><a href="integrantes.html">Integrantes</a></li>
+    <li><a href="contacto.html">Contacto</a></li>
+  </ul>
